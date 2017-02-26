@@ -1,0 +1,13 @@
+.message, .success, .error, .warning {
+  border: 2px solid green;
+  padding: 10px;
+  color: #333; }
+
+.success {
+  border-color: blue; }
+
+.error {
+  border-color: red; }
+
+.warning {
+  border-color: black; }
